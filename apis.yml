@@ -1,7 +1,18 @@
 aid: proprio
 name: Proprio
-description: Proprio is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Proprio is a Seattle-based surgical technology company modernizing how surgery
+  is predicted, performed, and perfected by combining physician expertise with
+  immersive, intelligent technology. Its FDA-cleared Paradigm platform fuses
+  proprietary light-field imaging, an array of advanced sensors (the Prism sensor
+  array), and artificial intelligence to build a continuous, real-time 3D model of
+  anatomy during spine and orthopedic procedures. Paradigm delivers radiation-free
+  intraoperative measurement, per-vertebra registration, and structured surgical
+  data capture, reducing radiation exposure while streamlining surgical workflows.
+  Founded in 2016 and backed by DCVC, Proprio is commercializing surgical
+  navigation, real-time surgical intelligence, and a growing surgical data
+  registry. Proprio is a hardware- and software-based medical device company; it
+  does not currently publish a public developer API, SDK, or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/proprio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +20,61 @@ x-backed-by:
 - dcvc
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://cdn.prod.website-files.com/6296c202ecfe835c15f4e757/6335fd08b193fc5243c3e222_OG.jpg
 tags:
 - Company
+- Surgery
+- Surgical Navigation
+- Medical Devices
+- MedTech
+- Artificial Intelligence
+- Computer Vision
+- Light Field Imaging
+- Spine Surgery
+- Healthcare
 apis: []
+common:
+- type: DomainSecurity
+  url: security/proprio-domain-security.yml
+- type: LLMsTxt
+  url: llms/proprio-llms.txt
+- type: Website
+  url: https://www.propriovision.com/
+- type: About
+  url: https://www.propriovision.com/about
+- type: Technology
+  url: https://www.propriovision.com/technology
+- type: Blog
+  url: https://www.propriovision.com/resources
+- type: Careers
+  url: https://www.propriovision.com/careers
+- type: PrivacyPolicy
+  url: https://www.propriovision.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/proprio-vision/
+- type: Twitter
+  url: https://twitter.com/Proprio_Vision
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

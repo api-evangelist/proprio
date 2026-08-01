@@ -1,0 +1,21 @@
+# Proprio
+
+> Proprio is a Seattle-based surgical technology company modernizing how surgery is predicted, performed, and perfected. Its FDA-cleared Paradigm platform fuses proprietary light-field imaging, an advanced sensor array (Prism), and artificial intelligence to build a continuous, real-time 3D model of anatomy during spine and orthopedic procedures — delivering radiation-free intraoperative measurement, per-vertebra registration, and structured surgical data capture. Founded in 2016 and backed by DCVC. Proprio is a hardware- and software-based medical device company and does not currently publish a public developer API, SDK, or developer portal.
+
+## Company
+- [Website](https://www.propriovision.com/): Proprio company home.
+- [About](https://www.propriovision.com/about): Company overview, mission, and Seattle HQ.
+- [Technology](https://www.propriovision.com/technology): Paradigm platform, Prism sensor array, and light-field imaging technology.
+- [News & Resources](https://www.propriovision.com/resources): Company news, clinical milestones, and publications.
+- [Careers](https://www.propriovision.com/careers): Open roles at Proprio.
+
+## Products
+- Paradigm: FDA-cleared AI-driven surgical navigation and visualization platform for spine and orthopedic surgery.
+- Paradigm OS: Surgeon-led, AI-enabled intelligence system for surgical performance.
+- Prism: Light-field-based multi-modal vision sensor array (optical, depth, and infrared tracking).
+
+## Developer Surface
+- No public developer API, SDK, CLI, or developer portal is currently published. Data integrations (e.g. surgical registry integration) are handled through private partnerships.
+
+## Legal
+- [Privacy Policy](https://www.propriovision.com/privacy-policy)
