@@ -53,7 +53,7 @@ tags:
 - Medical Devices
 - MedTech
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Light Field Imaging
 - Spine Surgery
 - Healthcare
@@ -68,6 +68,7 @@ tags_raw:
 - Light Field Imaging
 - Spine Surgery
 - Healthcare
+- Computer-Vision
 apis: []
 common:
 - type: DomainSecurity
